@@ -11,7 +11,9 @@ A complete beginner-friendly project to build a **Tour & Travel Booking Website*
 - Booking system with date selection and status tracking  
 - Image upload and validation  
 - Contact form with PHPMailer integration  
-- Search, filter, and pagination  
+- Search, filter, and pagination
+- Payment Gateway intergration
+- Customer support 
 - SCSS for modular and maintainable styles  
 - Gulp automation for compiling SCSS and live reload  
 - Deployment on free web hosting  
@@ -85,14 +87,15 @@ A complete beginner-friendly project to build a **Tour & Travel Booking Website*
 
 ## 🛠️ Tools & Technologies
 
-- **PHP 7+** (Core PHP)  
+- **PHP 8.2+**
 - **MySQL** with phpMyAdmin  
 - **HTML5**, **SCSS**, **Bootstrap 5**  
 - **Gulp** (Task automation: SCSS compile, minify, live reload)  
 - **PHPMailer** (Email handling)  
 - **Node.js** (Required for Gulp)  
-- Local Development: **XAMPP** or **WAMP**  
+- Local Development: **XAMPP** or **WAMP** or **AMMPS** 
 - Editor: **VS Code**, **Sublime Text**, or similar  
+- AI Tool: **Github Copilot**
 
 ---
 
