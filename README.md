@@ -23,10 +23,10 @@ A complete beginner-friendly project to build a **Tour & Travel Booking Website*
 ## 📁 Playlist Structure 
 
 ### 🧱 MODULE 1: Setup & Introduction
-| EP  | Title                         | Description                                           |
-|-----|-------------------------------|-----------------------------------------------------|
-| 01  | Project Overview & Demo       | Full walkthrough of the final travel booking website. |
-| 02  | XAMPP Setup & Project Structure | Install XAMPP, create project folders, and initial setup. |
+| EP  | Title                           | Description                                           |
+|-----|---------------------------------|-----------------------------------------------------|
+| 01  | Project Overview & Demo         | Full walkthrough of the final travel booking website. |
+| 02  | Local Setup & Project Structure | Install XAMPP/AMMPS/MAMP/WAMP, create project folders, and initial setup. |
 
 ### 🗃️ MODULE 2: Database Design
 | EP  | Title                      | Description                                              |
