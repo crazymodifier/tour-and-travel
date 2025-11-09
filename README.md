@@ -31,12 +31,12 @@ A complete beginner-friendly project to build a **Tour & Travel Booking Website*
 ### 🗃️ MODULE 2: Database Design
 | EP  | Title                      | Description                                              |
 |------|----------------------------|----------------------------------------------------------|
-| 03   | Create MySQL Tables & Relationships | Design users, admins, packages, bookings, and messages tables. |
+| 03   | Create Database Tables & Relationships | Design users, admins, packages, bookings, and messages tables. |
 
-### 🎨 MODULE 3: SCSS + Gulp Setup
+### 🎨 MODULE 3: Gulp + SCSS Setup
 | EP  | Title                      | Description                                              |
 |------|----------------------------|----------------------------------------------------------|
-| 04   | SCSS Setup & Folder Structure | Organize stylesheets using SCSS partials and variables.  |
+| 04   | Gulp Setup & Folder Structure for SCSS and JS | Organize stylesheets using SCSS partials and variables.  |
 | 05   | Automate with Gulp          | Set up Gulp tasks to compile SCSS, minify CSS, and enable live reload. |
 
 ### 🔐 MODULE 4: User System
