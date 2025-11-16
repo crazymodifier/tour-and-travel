@@ -18,7 +18,7 @@ function css() {
     // .pipe(autoprefixer({
     //   cascade: false
     // }))
-    .pipe(cleanCSS())
+    // .pipe(cleanCSS())
     .pipe(rename({
       suffix: ".min"
     }))
